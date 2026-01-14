@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1521.6
     height: 764.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -611,15 +611,14 @@ MonoBehaviour:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 84.400024}
+    scrollPos: {x: 0, y: 56.400024}
     m_SelectedIDs:
-    - m_Data: 56010
+    - m_Data: 63110
     m_LastClickedID:
-      m_Data: 56010
+      m_Data: 63110
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 54388
-    - m_Data: 55516
+    - m_Data: 63108
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -678,8 +677,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 63152
+    m_LastClickedInstanceID: 63152
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -803,18 +803,18 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: []
+      m_SelectedIDs:
+      - m_Data: 63152
       m_LastClickedID:
-        m_Data: 0
+        m_Data: 63152
       m_ExpandedIDs:
-      - m_Data: -23488
-      - m_Data: -21796
-      - m_Data: -21610
-      - m_Data: -19268
+      - m_Data: -47308
+      - m_Data: -46162
+      - m_Data: 63152
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Veh_Armor_Car_01
-        m_OriginalName: Veh_Armor_Car_01
+        m_Name: Main Camera
+        m_OriginalName: Main Camera
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -822,10 +822,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: -23926
+          m_Data: 63168
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 4
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 4}
@@ -1375,9 +1375,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 4.4756913, y: 11.365497, z: 118.893616}
+    m_Target: {x: -0.099999905, y: 6.8, z: -9.4}
     speed: 2
-    m_Value: {x: 4.4756913, y: 11.365497, z: 118.893616}
+    m_Value: {x: -0.099999905, y: 6.8, z: -9.4}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1425,11 +1425,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0.0000021534154, y: 0, z: 0, w: 1}
+    m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 58.151928
+    m_Target: 12.124355
     speed: 2
-    m_Value: 58.151928
+    m_Value: 12.124355
   m_Ortho:
     m_Target: 0
     speed: 2
