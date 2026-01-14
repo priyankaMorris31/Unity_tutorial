@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\unity projects\\Practices\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A4A1A62B-ECBD-A41D-8152-F12DA118E971}|Assembly-CSharp.csproj|d:\\unity projects\\practices\\assets\\scripts\\fallowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4A1A62B-ECBD-A41D-8152-F12DA118E971}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fallowplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A4A1A62B-ECBD-A41D-8152-F12DA118E971}|Assembly-CSharp.csproj|d:\\unity projects\\practices\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A4A1A62B-ECBD-A41D-8152-F12DA118E971}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FallowPlayer.cs",
+              "DocumentMoniker": "D:\\unity projects\\Practices\\Assets\\Scripts\\FallowPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FallowPlayer.cs",
+              "ToolTip": "D:\\unity projects\\Practices\\Assets\\Scripts\\FallowPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FallowPlayer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIA9wA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:16:24.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\unity projects\\Practices\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
